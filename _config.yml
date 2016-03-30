@@ -1,0 +1,28 @@
+name: emilychowbluck
+favicon: null
+layout_spectrum: 0.6230246622581035
+typography_spectrum: 0.11635562824085355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9306501697283238
+  lightness: 0.6299417053814977
+  saturation: 0.8684958862140775
+  rhythmicContrast: 0.9487778744660318
+purpose: []
